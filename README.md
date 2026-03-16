@@ -117,7 +117,9 @@ struct Developer {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kval25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kval25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey8/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katikeyeagarwal1234@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-katikeyeagarwal1234@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:katikeyeagarwal1234@gmail.com)
+
+</div>
 
 </div>
 
