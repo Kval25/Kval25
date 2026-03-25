@@ -13,10 +13,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Kval25?label=Followers&style=for-the-badge&color=0A84FF&labelColor=1C1C1E)](https://github.com/Kval25)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kval25&style=for-the-badge&color=0A84FF&labelColor=1C1C1E)](https://github.com/Kval25)
-
-</div>
 
 ---
 
