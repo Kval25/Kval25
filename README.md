@@ -8,6 +8,9 @@
 ██║░╚██╗░░╚██╔╝░░██║░░██║███████╗
 ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝
 ```
+<br/>
+ 
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=iOS+Developer+%F0%9F%93%B1;Swift+%7C+UIKit+%7C+SwiftUI;Building+Apps+That+Matter+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -21,7 +24,7 @@
 ## `whoami` 👨‍💻
 ```swift
 struct Developer {
-    let name        = "Kval25"
+    let name        = "Kartikey Agarwal"
     let role        = "iOS Developer"
     let languages   = ["Swift"]
     let frameworks  = ["UIKit", "SwiftUI", "Foundation"]
