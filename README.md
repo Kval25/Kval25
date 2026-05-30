@@ -12,7 +12,7 @@
  
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=iOS+Developer+%F0%9F%93%B1;Swift+%7C+UIKit+%7C+SwiftUI;Building+Apps+That+Matter+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+%F0%9F%93%B1;Swift+%7C+UIKit+%7C+SwiftUI;Building+Apps+That+Matter+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,14 +25,14 @@
 ```swift
 struct Developer {
     let name        = "Kartikey Agarwal"
-    let role        = "iOS Developer"
-    let languages   = ["Swift"]
+    let role        = "Mobile App Developer(iOS+Flutter)"
+    let languages   = ["Swift","Dart]
     let frameworks  = ["UIKit", "SwiftUI", "Foundation"]
     let tools       = ["Xcode", "Git", "CocoaPods"]
     let passion     = "Crafting beautiful iOS experiences"
 
     func currentFocus() -> String {
-        return "Building real-world iOS apps 📱"
+        return "Building real-world Mobile apps 📱"
     }
 }
 ```
@@ -83,11 +83,6 @@ struct Developer {
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### 🦋 Flutter & Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -100,6 +95,7 @@ struct Developer {
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC_Pattern-FF9500?style=for-the-badge&logo=databricks&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM_Pattern-30B94D?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 </div>
 
